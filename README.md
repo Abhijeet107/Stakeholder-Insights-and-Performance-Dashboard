@@ -1,6 +1,7 @@
 # Stakeholder-Insights-and-Performance-Dashboard
 
 # Dashboard
+![Screenshot 2025-01-10 144725](https://github.com/user-attachments/assets/5c252b4d-399b-4f94-a7bb-08dc15078382)
 
 
 # Purpose:
